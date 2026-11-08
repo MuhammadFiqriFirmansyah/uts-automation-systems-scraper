@@ -1,8 +1,3 @@
-Berikut adalah berkas `README.md` berstandar profesional dan *aesthetic* yang dirancang khusus untuk repositori GitHub. Berkas ini melengkapi seluruh kriteria rubrik UTS Automation Systems dengan visual badge, tabel CLI, penjelasan skema Regex, dan struktur proyek yang jelas.
-
-Cukup **salin (copy)** seluruh blok teks di bawah ini dan **tempel (paste)** langsung ke dalam berkas `README.md` di Visual Studio Code kamu:
-
-```markdown
 <div align="center">
 
 # 🕷️ Manual Web Scraper & Quotes Organizer
