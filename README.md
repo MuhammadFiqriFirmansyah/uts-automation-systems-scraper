@@ -33,7 +33,7 @@ A high-performance, zero-dependency HTML parser implementation built from scratc
 | :-: | :--- | :-: |
 | 1 | **Muhammad Fiqri Firmansyah** | 312310629 |
 | 2 | **Muhammad Adrian Arsy Fadila** | 312310648 |
-| 3 | **Endang Sirait** | 31210588 |
+| 3 | **Endang Sirait** | 312310588 |
 
 ## 📌 Ringkasan Proyek
 
