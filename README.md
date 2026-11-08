@@ -10,11 +10,30 @@
 
 A high-performance, zero-dependency HTML parser implementation built from scratch using pure **Python Regular Expressions (`re`)** for dynamic web data extraction, multi-page crawling, structural data storage, and automated archiving.
 
-[Ringkasan](#-ringkasan-proyek) • [Persyaratan Sistem](#-persyaratan-sistem) • [Panduan Instalasi](#-panduan-instalasi-langkah-demi-langkah) • [Penggunaan CLI](#-panduan-penggunaan-cli) • [Arsitektur Teknik](#-arsitektur-teknik--skema-regex) • [Struktur Berkas](#-struktur-berkas-dan-output)
+[Identitas Kelompok](#-identitas-kelompok) • [Ringkasan](#-ringkasan-proyek) • [Persyaratan Sistem](#-persyaratan-sistem) • [Panduan Instalasi](#-panduan-instalasi-langkah-demi-langkah) • [Penggunaan CLI](#-panduan-penggunaan-cli) • [Arsitektur Teknik](#-arsitektur-teknik--skema-regex) • [Struktur Berkas](#-struktur-berkas-dan-output)
 
 </div>
 
 ---
+
+---
+
+## 👥 Identitas Kelompok
+
+| Parameter | Keterangan |
+| :--- | :--- |
+| **Mata Kuliah** | Automation Systems |
+| **Dosen Pengampu** | Anggi Muhammad Rifa'i, M.Kom |
+| **Program Studi** | Teknik Informatika |
+| **Fakultas** | Fakultas Teknik — Universitas Pelita Bangsa |
+
+### 👨‍💻 Anggota Kelompok (3 Mahasiswa)
+
+| No. | Nama Mahasiswa | NIM | Peran / Kontribusi |
+| :-: | :--- | :-: | :--- |
+| 1 | **Muhammad Fiqri Firmansyah** | 312310629 |
+| 2 | **Muhammad Adrian Arsy Fadila** | 3123648 |
+| 3 | **Endang Sirait** | 31210588 |
 
 ## 📌 Ringkasan Proyek
 
@@ -45,7 +64,7 @@ Ikuti instruksi perintah terminal di bawah ini untuk menyiapkan lingkungan proye
 ### 1. Kloning Repositori
 Buka terminal / Command Prompt kamu dan jalankan perintah:
 ```bash
-git clone [https://github.com/USERNAME_KAMU/uts-automation-systems-scraper.git](https://github.com/USERNAME_KAMU/uts-automation-systems-scraper.git)
+git clone [https://github.com/MuhammadFiqriFirmansyah/uts-automation-systems-scraper.git](https://github.com/MuhammadFiqriFirmansyah/uts-automation-systems-scraper.git)
 cd uts-automation-systems-scraper
 
 ```
