@@ -1,4 +1,4 @@
 === RINGKASAN PEMROSESAN LAPORAN SCRAPING ===
-Kata Kunci Filter       : 'night'
-Total Record Tersaring  : 1
+Kata Kunci Filter       : 'Semua'
+Total Record Tersaring  : 30
 Sumber Web              : https://quotes.toscrape.com/
